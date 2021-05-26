@@ -155,6 +155,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622055383345</updated>
       <workItem from="1622055386968" duration="5500000" />
+      <workItem from="1622064199305" duration="448000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1622055623721</created>
@@ -200,6 +201,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
