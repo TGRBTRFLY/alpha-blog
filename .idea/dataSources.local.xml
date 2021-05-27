@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="RM-211.7142.41">
+    <data-source name="development" uuid="d43b9b8c-1c61-437f-b896-8d34244f5f7d">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
+      <secret-storage>forget</secret-storage>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
