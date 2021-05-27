@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="492ce6c0-0588-4047-9818-794e5e762253" name="Default Changelist" comment="Generate articles table">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/articles_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/article.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/articles/show.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-    </list>
+    <list default="true" id="492ce6c0-0588-4047-9818-794e5e762253" name="Default Changelist" comment="Show specified article" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,7 +156,7 @@
       <workItem from="1622055386968" duration="5500000" />
       <workItem from="1622064199305" duration="1814000" />
       <workItem from="1622068062914" duration="3741000" />
-      <workItem from="1622082169728" duration="6796000" />
+      <workItem from="1622082169728" duration="7487000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1622055623721</created>
@@ -201,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622080722615</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Show specified article">
+      <created>1622089210989</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622089210989</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +225,8 @@
     <MESSAGE value="Add ABOUT page" />
     <MESSAGE value="Make app production ready - Heroku" />
     <MESSAGE value="Generate articles table" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generate articles table" />
+    <MESSAGE value="Show specified article" />
+    <option name="LAST_COMMIT_MESSAGE" value="Show specified article" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/alpha_blog@Development__alpha_blog.rcov" NAME="Development: alpha-blog Coverage Results" MODIFIED="1622058572747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="alpha-blog" />
