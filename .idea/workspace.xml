@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="492ce6c0-0588-4047-9818-794e5e762253" name="Default Changelist" comment="94. Edit and update">
+    <list default="true" id="492ce6c0-0588-4047-9818-794e5e762253" name="Default Changelist" comment="96. Delete &amp; Show articles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/articles_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/articles_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/articles/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/articles/index.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +174,7 @@
       <workItem from="1622082169728" duration="7487000" />
       <workItem from="1622129644426" duration="8751000" />
       <workItem from="1622139561201" duration="2320000" />
-      <workItem from="1622141945038" duration="4633000" />
+      <workItem from="1622141945038" duration="5028000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1622055623721</created>
@@ -269,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622145899526</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="96. Delete &amp; Show articles">
+      <created>1622147584146</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1622147584146</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,7 +305,8 @@
     <MESSAGE value="90. Create action - save new article" />
     <MESSAGE value="92. validation and flash messages" />
     <MESSAGE value="94. Edit and update" />
-    <option name="LAST_COMMIT_MESSAGE" value="94. Edit and update" />
+    <MESSAGE value="96. Delete &amp; Show articles" />
+    <option name="LAST_COMMIT_MESSAGE" value="96. Delete &amp; Show articles" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/alpha_blog@Development__alpha_blog.rcov" NAME="Development: alpha-blog Coverage Results" MODIFIED="1622058572747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="alpha-blog" />
