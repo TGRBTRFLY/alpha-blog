@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="492ce6c0-0588-4047-9818-794e5e762253" name="Default Changelist" comment="Make app production ready - Heroku">
+      <change afterPath="$PROJECT_DIR$/db/migrate/20210526223055_create_articles.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +157,8 @@
       <option name="presentableId" value="Default" />
       <updated>1622055383345</updated>
       <workItem from="1622055386968" duration="5500000" />
-      <workItem from="1622064199305" duration="448000" />
+      <workItem from="1622064199305" duration="1814000" />
+      <workItem from="1622068062914" duration="2259000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1622055623721</created>
