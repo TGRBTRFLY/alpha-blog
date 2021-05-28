@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="492ce6c0-0588-4047-9818-794e5e762253" name="Default Changelist" comment="98. Add Creat New Article link">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/articles/edit.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/articles/edit.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/articles/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/articles/index.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/articles/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/articles/new.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/articles/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/articles/show.html.erb" afterDir="false" />
+=======
+    <list default="true" id="492ce6c0-0588-4047-9818-794e5e762253" name="Default Changelist" comment="99. Layout links">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/articles_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/articles_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/home.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/home.html.erb" afterDir="false" />
+>>>>>>> ff7c20e (99. Layout links)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +184,12 @@
       <workItem from="1622082169728" duration="7487000" />
       <workItem from="1622129644426" duration="8751000" />
       <workItem from="1622139561201" duration="2320000" />
+<<<<<<< HEAD
       <workItem from="1622141945038" duration="6425000" />
+=======
+      <workItem from="1622141945038" duration="6480000" />
+      <workItem from="1622170208674" duration="743000" />
+>>>>>>> ff7c20e (99. Layout links)
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1622055623721</created>
@@ -284,7 +296,18 @@
       <option name="project" value="LOCAL" />
       <updated>1622148164874</updated>
     </task>
+<<<<<<< HEAD
     <option name="localTasksCounter" value="16" />
+=======
+    <task id="LOCAL-00016" summary="99. Layout links">
+      <created>1622149565045</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1622149565045</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+>>>>>>> ff7c20e (99. Layout links)
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,7 +340,12 @@
     <MESSAGE value="94. Edit and update" />
     <MESSAGE value="96. Delete &amp; Show articles" />
     <MESSAGE value="98. Add Creat New Article link" />
+<<<<<<< HEAD
     <option name="LAST_COMMIT_MESSAGE" value="98. Add Creat New Article link" />
+=======
+    <MESSAGE value="99. Layout links" />
+    <option name="LAST_COMMIT_MESSAGE" value="99. Layout links" />
+>>>>>>> ff7c20e (99. Layout links)
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/alpha_blog@Development__alpha_blog.rcov" NAME="Development: alpha-blog Coverage Results" MODIFIED="1622058572747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="alpha-blog" />
